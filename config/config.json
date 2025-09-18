@@ -1,0 +1,14 @@
+{
+  "config": {
+    "name": "MySearchEngine",
+    "version": "0.1",
+    "max_responses": 5,
+    "reindex_period": "24h"
+  },
+  "files": [
+    "./resource/file001.txt",
+    "./resource/file002.txt",
+    "./resource/file003.txt",
+    "./resource/file004.txt"
+  ]
+}
